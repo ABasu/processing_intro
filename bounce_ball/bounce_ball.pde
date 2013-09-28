@@ -17,7 +17,7 @@ void setup() {
 
   // Build the canvas
   width = displayWidth;  
-  height = displayHeight - 250;
+  height = displayHeight - 50;
   size(width, height);
   
   x = (int) random(0, width);

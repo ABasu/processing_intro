@@ -4,7 +4,7 @@ int height;
 color bg = color(0, 0, 0);
 color fg = color(200, 200, 200, 150);
 
-int fishcount = 1000;  // No. of circles
+int fishcount = 1000; // No. of circles
 float min_dist = 75;  // Dist for repulsion
 float max_dist = 400; // Dist for attraction
 float min_speed = 10; // Speed range 
